@@ -33,9 +33,7 @@ Community Service user interface includes three parts:
 * Main Window: Displays students and their info including community service 
 hours and awards.
 
-* Add Student: Allows you to add students to the database and
-
-fill in their information.
+* Add Student: Allows you to add students to the database and fill in their information.
 
 * Edit Student: Offers an easy way to edit a students information.
 
