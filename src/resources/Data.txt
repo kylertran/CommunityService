@@ -1,7 +1,0 @@
-Kyler, Tran, 142044, 11, 5, 0
-Julia, Castillo, 146437, 9, 14, 2
-Larry, Alvarado, 165483, 12, 25, 3
-Nick, Cunningham, 197643, 10, 12, 2
-Neil, Padilla, 115483, 12, 16, 1
-Erick, Richards, 156975, 9, 3, 1
-John, Tran, 165324, 12, 4, 0
