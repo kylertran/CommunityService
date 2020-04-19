@@ -1,12 +1,12 @@
 # CommunityService
 
-Coding &amp; Programming project for FBLA 2020
-
-              Community Service Version 1.0
-              
-            Copyright(C) 2019-2020 Kyler Tran
+            Coding & Programming project for FBLA 2020
             
-                   All Rights Reserved
+                  Community Service Version 1.0
+              
+                Copyright(C) 2019-2020 Kyler Tran
+            
+                       All Rights Reserved
 
 
 Community Service is a tool used to track community service hours and
