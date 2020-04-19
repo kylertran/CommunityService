@@ -9,6 +9,7 @@
                        All Rights Reserved
 
 
+
 Community Service is a tool used to track community service hours and
 awards for different students attending high school.
 
