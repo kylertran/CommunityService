@@ -11,11 +11,16 @@ awards for different students attending high school.
 Community Service runs on Windows Vista/7/8/8.1/10 or above.
 
 Main Features:
+
 *) Track students name, age, grade, student ID.
+
 *) Stores student information and community service hours
 and awards.
+
 *) Data table which clearly displays students and corresponding information.
+
 *) Over five different control types to interact with.
+
 *) Easy to navigate layout to prevent confusion.
 
 Community Service user interface includes three parts:
