@@ -1,4 +1,4 @@
-# Community Service Version 1.0
+# Community Service Tracker Version 1.0
 
 **Coding & Programming project for FBLA 2020**  
 **Copyright(C) 2019-2020 Kyler Tran**  
