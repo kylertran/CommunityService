@@ -1,5 +1,4 @@
 # Community Service Tracker
-![View my submission](https://www.youtube.com/watch?v=ZEJ6JCLO1gg)
 [![View my submission](https://img.youtube.com/vi/ZEJ6JCLO1gg/0.jpg)](https://www.youtube.com/watch?v=ZEJ6JCLO1gg)
 
 **Coding & Programming project for FBLA 2020**  
