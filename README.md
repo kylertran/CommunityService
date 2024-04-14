@@ -1,4 +1,4 @@
-# Community Service Tracker Version 1.0
+# Community Service Tracker
 
 **Coding & Programming project for FBLA 2020**  
 **Copyright(C) 2019-2020 Kyler Tran**  
@@ -12,10 +12,9 @@ Community Service is a software tool designed to track community service hours a
 
 ## Features
 - **Student Tracking**: Track student's name, age, grade, and student ID.
-- **Data Storage**: Store detailed information about students' community service hours and awards.
+- **Persistent Data Storage**: Store detailed information about students' community service hours and awards.
 - **Data Visualization**: Utilize a data table to clearly display students and corresponding information.
-- **User Interaction**: Over five different control types to enhance user interaction.
-- **User-Friendly Interface**: Designed to be easy to navigate to prevent user confusion.
+- **User-Friendly Interface**: Designed to be easy to navigate to prevent user confusion. Includes over five different control types to enhance user interaction.
 
 ## User Interface
 - **Main Window**: Displays students and their information including community service hours and awards.
