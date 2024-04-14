@@ -1,46 +1,30 @@
-# CommunityService
+# Community Service Version 1.0
 
-            Coding & Programming project for FBLA 2020
-            
-                  Community Service Version 1.0
-              
-                Copyright(C) 2019-2020 Kyler Tran
-            
-                       All Rights Reserved
+**Coding & Programming project for FBLA 2020**  
+**Copyright(C) 2019-2020 Kyler Tran**  
+**All Rights Reserved**
 
+## Description
+Community Service is a software tool designed to track community service hours and awards for high school students. It provides an efficient way to manage and display student activities and recognitions, enhancing the way schools handle extracurricular records.
 
-Community Service is a tool used to track community service hours and
-awards for different students attending high school.
+## System Requirements
+- Compatible with Windows Vista/7/8/8.1/10 or above.
 
-Community Service runs on Windows Vista/7/8/8.1/10 or above.
+## Features
+- **Student Tracking**: Track student's name, age, grade, and student ID.
+- **Data Storage**: Store detailed information about students' community service hours and awards.
+- **Data Visualization**: Utilize a data table to clearly display students and corresponding information.
+- **User Interaction**: Over five different control types to enhance user interaction.
+- **User-Friendly Interface**: Designed to be easy to navigate to prevent user confusion.
 
-Main Features:
+## User Interface
+- **Main Window**: Displays students and their information including community service hours and awards.
+- **Add Student**: Functionality to add students to the database and input their detailed information.
+- **Edit Student**: Provides a simple interface for editing student information.
 
-*) Track students name, age, grade, student ID.
+## License
+Community Service is distributed as free software under the Unlicense. For more details on the licensing, please read the `License.txt` file included in the distribution.
 
-*) Stores student information and community service hours
-and awards.
-
-*) Data table which clearly displays students and corresponding information.
-
-*) Over five different control types to interact with.
-
-*) Easy to navigate layout to prevent confusion.
-
-
-Community Service user interface includes three parts:
-
-* Main Window: Displays students and their info including community service 
-hours and awards.
-
-* Add Student: Allows you to add students to the database and fill in their information.
-
-* Edit Student: Offers an easy way to edit a students information.
-
-Community Service is free software distributed under unlicense. Read
-License.txt for more information about license.
-
-
-Kyler Tran
-
-E-Mail: kylerzinbox@gmail.com
+## Contact Information
+- **Developer**: Kyler Tran
+- **Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
