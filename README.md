@@ -2,7 +2,7 @@
 [![View my submission](https://img.youtube.com/vi/ZEJ6JCLO1gg/0.jpg)](https://www.youtube.com/watch?v=ZEJ6JCLO1gg)
 
 **Coding & Programming project for FBLA 2020**  
-**Copyright(C) 2019-2020 Kyler Tran**  
+**Copyright &copy; 2019-2020 Kyler Tran**  
 
 ## Description
 Community Service is a software tool designed to track community service hours and awards for high school students. It provides an efficient way to manage and display student activities and recognitions, enhancing the way schools handle extracurricular records.
