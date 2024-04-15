@@ -26,4 +26,4 @@ Community Service is distributed as free software under the Unlicense. For more 
 
 ## Contact
 Kyler Tran  
-**Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
+**Email**: [contact@kylertran.com](mailto:contact@kylertran.com)
